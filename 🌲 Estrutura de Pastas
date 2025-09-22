@@ -1,0 +1,26 @@
+hubmktdigital/
+├─ app/
+│  ├─ globals.css
+│  ├─ layout.tsx
+│  └─ page.tsx
+├─ components/
+│  ├─ Background.tsx
+│  ├─ Footer.tsx
+│  ├─ Header.tsx
+│  ├─ Surface.tsx
+│  └─ sections/
+│     ├─ Hero.tsx
+│     ├─ NewsList.tsx
+│     ├─ Dashboard.tsx
+│     ├─ Home.tsx
+│     ├─ Perfil.tsx
+│     └─ Contato.tsx
+├─ public/
+│  └─ favicon.svg
+├─ .gitignore
+├─ README.md
+├─ next.config.js
+├─ package.json
+├─ postcss.config.js
+├─ tailwind.config.ts
+└─ tsconfig.json
